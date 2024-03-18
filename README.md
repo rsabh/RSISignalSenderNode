@@ -50,8 +50,4 @@ RSISignalSenderNode is a Node.js application designed to fetch the weekly Relati
 Contributions to this project are welcome. Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
 ## License
-Specify your choice of license here, or state that the project is unlicensed.
-
----
-
-Replace `https://github.com/yourusername/RSISignalSenderNode.git` with your actual repository URL. Modify any sections as necessary to fit the specifics of your project, such as additional configuration steps, usage instructions, or details about the functionalities it provides.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](https://www.apache.org/licenses/LICENSE-2.0) file for details.
